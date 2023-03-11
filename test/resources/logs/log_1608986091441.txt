@@ -1,0 +1,34 @@
+10/03/2023 14:34:45 :: __init__ :: INFO :: Opened Chrome window
+10/03/2023 14:34:45 :: __init__ :: INFO :: Go to URL:: https://www.topman.com/
+10/03/2023 14:34:51 :: __init__ :: INFO :: Found element:: ('xpath', "//span[contains(@class, 'AccountIcon-icon')]")
+10/03/2023 14:34:51 :: __init__ :: INFO :: Clicked on element:: ('xpath', "//span[contains(@class, 'AccountIcon-icon')]")
+10/03/2023 14:34:51 :: __init__ :: INFO :: Found element:: ('id', 'Login-email')
+10/03/2023 14:34:51 :: __init__ :: INFO :: Cleared element::
+10/03/2023 14:34:52 :: __init__ :: INFO :: Typed test_email@gmail.com in element:: ('id', 'Login-email')
+10/03/2023 14:34:52 :: __init__ :: INFO :: Found element:: ('id', 'Login-password')
+10/03/2023 14:34:52 :: __init__ :: INFO :: Cleared element::
+10/03/2023 14:34:52 :: __init__ :: INFO :: Typed 9xN9#w70PS$$ in element:: ('id', 'Login-password')
+10/03/2023 14:34:52 :: __init__ :: INFO :: Found element:: ('xpath', "//button[contains(text(),'Sign in')]")
+10/03/2023 14:34:52 :: __init__ :: INFO :: Clicked on element:: ('xpath', "//button[contains(text(),'Sign in')]")
+10/03/2023 14:34:52 :: __init__ :: INFO :: Got page url:: https://www.topman.com/login
+10/03/2023 14:34:54 :: __init__ :: INFO :: Found element:: ('id', 'searchTermInput')
+10/03/2023 14:34:54 :: __init__ :: INFO :: Cleared element::
+10/03/2023 14:34:54 :: __init__ :: INFO :: Typed jeans in element:: ('id', 'searchTermInput')
+10/03/2023 14:34:54 :: __init__ :: INFO :: Found element:: ('xpath', "//button[@class='SearchBar-button'][1]")
+10/03/2023 14:34:54 :: __init__ :: INFO :: Clicked on element:: ('xpath', "//button[@class='SearchBar-button'][1]")
+10/03/2023 14:34:54 :: __init__ :: INFO :: Found element:: ('xpath', "//span[@class='PlpHeader-title']")
+10/03/2023 14:34:54 :: __init__ :: INFO :: Got text from element:: ('xpath', "//span[@class='PlpHeader-title']")
+10/03/2023 14:34:56 :: __init__ :: INFO :: Found elements:: ('xpath', "//a[@class='Product-nameLink']")
+10/03/2023 14:34:57 :: __init__ :: INFO :: Found elements:: ('xpath', "//select[@id='productSizes']/option")
+10/03/2023 14:34:57 :: __init__ :: INFO :: Got attribute from element::
+10/03/2023 14:34:57 :: __init__ :: INFO :: Got attribute from element::
+10/03/2023 14:34:57 :: __init__ :: INFO :: Got attribute from element::
+10/03/2023 14:34:57 :: __init__ :: INFO :: Got attribute from element::
+10/03/2023 14:34:57 :: __init__ :: INFO :: Found element:: ('xpath', "//div[contains(@class,'ProductDetail-secondaryButtonGroup')]//div//button")
+10/03/2023 14:34:57 :: __init__ :: INFO :: Clicked on element:: ('xpath', "//div[contains(@class,'ProductDetail-secondaryButtonGroup')]//div//button")
+10/03/2023 14:34:57 :: __init__ :: INFO :: Found element:: ('xpath', "//div[@class ='MiniBag']")
+10/03/2023 14:34:57 :: __init__ :: INFO :: Found element:: ('xpath', "//button[contains(@class, 'ShoppingCart')]")
+10/03/2023 14:34:57 :: __init__ :: INFO :: Clicked on element:: ('xpath', "//button[contains(@class, 'ShoppingCart')]")
+10/03/2023 14:34:57 :: __init__ :: INFO :: Found element:: ('xpath', "//button[@class='Button MiniBag-continueButton notranslate'][1]")
+10/03/2023 14:34:58 :: __init__ :: INFO :: Clicked on element:: ('xpath', "//button[@class='Button MiniBag-continueButton notranslate'][1]")
+10/03/2023 14:34:59 :: __init__ :: INFO :: Found element:: ('css selector', '.DeliveryOption--home')
