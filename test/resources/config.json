@@ -1,4 +1,5 @@
 {
   "BROWSER": "chrome",
-  "WAIT_TIME": 5
+  "WAIT_TIME": 5,
+  "BASE_URL": "https://www.topman.com/"
 }

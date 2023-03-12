@@ -15,7 +15,7 @@ def custom_logger(level=logging.INFO):
     file_handler = logging.FileHandler(logger_path, mode="w")
     file_handler.setLevel(level)
 
-    formatter = logging.Formatter("%(asctime)s :: %(name)s :: %(levelname)s :: %(message)s",
+    formatter = logging.Formatter("%(asctime)s :: %(filename)s:%(lineno)d :: %(levelname)s :: %(message)s",
                                   datefmt="%d/%m/%Y %H:%M:%S")
     file_handler.setFormatter(formatter)
     logger.addHandler(file_handler)
